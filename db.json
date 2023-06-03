@@ -8,6 +8,20 @@
             "lastName": "Nguyen",
             "email": "phuongntph22846@fpt.edu.vn",
             "gender": "Male",
+            "role": "ADMIN",
+            "createDate": "17/09/2023",
+            "updateDate": "17/09/2023"
+        },
+
+        {
+            "id": 2,
+            "userName": "Phuongntph11111",
+            "password": "12345",
+            "firtName": "Phuong",
+            "lastName": "Nguyen",
+            "email": "phuongntph22846@fpt.edu.vn",
+            "gender": "Male",
+            "role": "STAFF",
             "createDate": "17/09/2023",
             "updateDate": "17/09/2023"
         }
